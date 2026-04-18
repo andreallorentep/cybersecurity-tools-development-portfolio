@@ -6,7 +6,7 @@ import ipaddress
 import subprocess
 from concurrent.futures import ThreadPoolExecutor
 
-# 🚪Puertos comunes
+# 🚪Common ports
 PORTS = [21, 22, 23, 25, 53, 80, 110, 139, 143, 443, 445, 3389]
 
 # 🌐 Get local IP address
