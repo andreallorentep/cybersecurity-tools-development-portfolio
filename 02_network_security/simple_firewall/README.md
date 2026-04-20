@@ -29,17 +29,18 @@ The program captures live network packets using Scapy.
 
 Example output:
 
-===================================
  🔥 Simple Firewall
  Real-Time Packet Filtering System
-===================================
 
 Blocked ports: [23, 445]
 
 [+] Firewall is running... Listening for traffic...
 
-[BLOCKED] Packet detected on blocked port: 23
-[BLOCKED] Packet detected on blocked port: 445
+[TRAFFIC]
+Source: <LOCAL_IP>
+Destination: <EXTERNAL_SERVER>
+Port: 443
+✅ ALLOWED
 
 ## Installation
 
