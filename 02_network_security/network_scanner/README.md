@@ -42,7 +42,5 @@ Example output:
 
 No external dependencies are required.
 
-Run the scanner using Python:
-
-```bash
-python network_scanner.py
+## Disclaimer
+This tool is intended for educational purposes and for use on networks you own or have permission to test.
