@@ -29,6 +29,3 @@ Install the required dependency:
 
 ```bash
 pip install cryptography
-
-## Disclaimer
-This tool is intended for educational purposes and for use on networks you own or have permission to test.
