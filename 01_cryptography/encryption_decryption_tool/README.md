@@ -26,6 +26,7 @@ The program generates a cryptographic key and uses it to encrypt and decrypt mes
 ## Installation
 
 Install the required dependency:
-
-```bash
 pip install cryptography
+
+## Disclaimer
+This tool is intended for educational purposes and for use on networks you own or have permission to test.
