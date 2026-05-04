@@ -63,6 +63,7 @@ Enter service name: test
 Password saved for: test
 
 Choose an option:
+
 1 Generate new password  
 2 View saved passwords  
 3 Exit  
@@ -80,7 +81,9 @@ passwords.json
 
 Example structure:
 {
+
     "test": ")@\"bdw{:{*N>"
+    
 }
 
 Each entry contains:
