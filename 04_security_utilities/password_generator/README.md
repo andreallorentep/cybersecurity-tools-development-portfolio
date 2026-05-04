@@ -40,10 +40,10 @@ The password generator creates strong passwords by randomly selecting characters
 This process demonstrates how password generators can help users maintain **strong and unique passwords across different services**.
 
 ## Example Output
-===================================
+
 Password Generator  
 Cybersecurity Utility Tool  
-===================================
+
 
 Choose an option:
 1 Generate new password  
@@ -55,12 +55,12 @@ Select option: 1
 Enter password length: 12
 
 Generated Password:
-A9#pQ!x2Lm@T
+)@\"bdw{:{*N>
 
 Do you want to save this password? y  
-Enter service name: github  
+Enter service name: test 
 
-Password saved for: github
+Password saved for: test
 
 Choose an option:
 1 Generate new password  
@@ -70,8 +70,8 @@ Choose an option:
 Select option: 2
 
 Saved Passwords
-============================
-github : A9#pQ!x2Lm@T
+
+test : )@\"bdw{:{*N>
 
 ## Output File
 The program stores passwords in a local JSON file:
@@ -80,8 +80,7 @@ passwords.json
 
 Example structure:
 {
-    "github": "A9#pQ!x2Lm@T",
-    "gmail": "pL!4X@9Qa#2"
+    "test": ")@\"bdw{:{*N>"
 }
 
 Each entry contains:
