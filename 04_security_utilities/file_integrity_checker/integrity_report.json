@@ -1,0 +1,7 @@
+{
+    "target_file": "test.txt",
+    "scan_time": "2026-05-03 18:50:09.579633",
+    "original_hash": "52c237b919697b71519629a02bcfdbabad8e9327c944ba574f150bfdd223695c",
+    "new_hash": "48a781cfd96c121b25ac63c902497741841b78166097d0316f72a62f46552e3a",
+    "status": "ALERT"
+}
