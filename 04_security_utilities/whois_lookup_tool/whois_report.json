@@ -1,0 +1,9 @@
+{
+    "domain": "google.com",
+    "lookup_time": "2026-05-03 20:29:01.287646",
+    "registrar": "MarkMonitor, Inc.",
+    "creation_date": "[datetime.datetime(1997, 9, 15, 4, 0, tzinfo=tzoffset('UTC', 0)), datetime.datetime(1997, 9, 15, 7, 0, tzinfo=tzoffset('UTC', 0))]",
+    "expiration_date": "[datetime.datetime(2028, 9, 14, 4, 0, tzinfo=tzoffset('UTC', 0)), datetime.datetime(2028, 9, 13, 7, 0, tzinfo=tzoffset('UTC', 0))]",
+    "name_servers": "['NS1.GOOGLE.COM', 'NS2.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS4.GOOGLE.COM']",
+    "status": "Likely Established Domain"
+}
