@@ -80,10 +80,11 @@ The program stores passwords in a local JSON file:
 passwords.json
 
 Example structure:
+
 {
 
     "test": ")@\"bdw{:{*N>"
-    
+
 }
 
 Each entry contains:
