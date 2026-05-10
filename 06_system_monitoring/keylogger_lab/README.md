@@ -64,9 +64,11 @@ It does NOT capture real system keystrokes.
 Start typing (type 'exit' to stop):
 
 > Hello  
+
 Logged.
 
 > cybersecurity  
+
 Logged.
 
 > exit
@@ -84,11 +86,13 @@ keylog_report.txt
 Example structure:
 
 Keylogger Session  
+
 Start Time: 2026-05-09 13:40:21
 
 ----------------------------------
 
 Hello  
+
 cybersecurity
 
 ----------------------------------
